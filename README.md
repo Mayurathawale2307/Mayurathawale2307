@@ -12,7 +12,7 @@ I'm a passionate full-stack web developer focused on building modern, user-frien
 
 ## 🛠️ Tech Stack
 
-- Frontend: React, Tailwind CSS, HTML, CSS, JavaScript
+- Frontend: React, Tailwind CSS, JavaScript, TypeScript.
 - Backend: Node.js, Express, MongoDB
 - Tools: Git, GitHub, VS Code, Postman
 
